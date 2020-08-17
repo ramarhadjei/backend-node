@@ -3,6 +3,8 @@
 //console.log(exportsFromFileB.foo )
 //console.log(exportsFromFileB.bar)
 
+
+
 const exportsFromFileB = require('./fileB')
 exportsFromFileB()
 require('./fileB')
