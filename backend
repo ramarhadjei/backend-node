@@ -1,0 +1,2 @@
+ const exportsFromFileB = require('./fileB')
+ 
